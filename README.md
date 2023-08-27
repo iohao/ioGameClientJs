@@ -33,8 +33,22 @@ ioGameMMO 介绍：[🔥🔥回合制网络游戏 MMO (yuque.com)](https://www.y
 
 ### 运行 ioGameClientJs 项目
 
-
 #### 1 启动客户端项目
+
+
+
+> 初始化项目
+>
+> npm install
+>
+> 
+>
+> 运行项目
+>
+> npm run start
+
+
+
 ![](./doc/ioGameClientJs-1.png)
 
 
